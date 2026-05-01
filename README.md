@@ -3,10 +3,10 @@
 # Overview
 This project investigates the performance of sorting algorithms using mathematical modelling and practical experimentation.
 
-The study compares Bubble Sort (O(n²)) and Merge Sort (O(n log n)) by measuring execution time across identical datasets.
+The study compares **Bubble Sort (O(n²))** and **Merge Sort (O(n log n))** by measuring execution time across identical datasets.
 
 # Objective
-To demonstrate how mathematical functions (Big-O notation) reflect real-world algorithm performance.
+To demonstrate how mathematical functions **(Big-O notation)** reflect real-world algorithm performance.
 
 # Methodology
 - Random datasets generated using Python
