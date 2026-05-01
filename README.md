@@ -15,7 +15,9 @@ To demonstrate how mathematical functions **(Big-O notation)** reflect real-worl
 - Comparison between two sorting algorithms
 
 # Results
-Merge Sort performed significantly faster than Bubble Sort, confirming theoretical expectations.
+Bubble Sort showed significantly slower growth compared to Merge Sort, confirming O(n²) vs O(n log n) behaviour.
+
+<img width="480" height="76" alt="Screenshot 2026-05-02 at 01 50 08" src="https://github.com/user-attachments/assets/acfb30b5-1e42-4fcc-8d13-e4a072195a20" />
 
 # Key Concepts
 - Algorithm Efficiency
