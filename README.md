@@ -30,4 +30,4 @@ Ntokozo Mzekandaba
 Independent Undergraduate Research Project (2026)
 
 # Algorithm Efficiency Research Project using Python
-[Performance Comparison of Bubble Sort and Merge Sort_compressed.pdf](https://github.com/user-attachments/files/27289444/Performance.Comparison.of.Bubble.Sort.and.Merge.Sort_compressed.pdf)
+[Performance Comparison of Bubble Sort and Merge Sort.pdf](https://github.com/user-attachments/files/27290270/Performance.Comparison.of.Bubble.Sort.and.Merge.Sort.pdf)
