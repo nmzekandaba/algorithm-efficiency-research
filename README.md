@@ -1,4 +1,9 @@
-# Algorithm Efficiency Research
+# Algorithm Efficiency Research (Bubble Sort vs Merge Sort)
+
+This independent undergraduate research project analyses the efficiency of sorting algorithms using Python. The study compares Bubble Sort and Merge Sort in terms of time complexity and execution performance.
+
+## Research Context
+This project is an independent undergraduate research study focusing on algorithm performance analysis and computational efficiency.
 
 # Overview
 This project investigates the performance of sorting algorithms using mathematical modelling and practical experimentation.
@@ -31,3 +36,6 @@ Independent Undergraduate Research Project (2026)
 
 # Algorithm Efficiency Research Project using Python
 📄 Full Research Paper: [Download Performance Comparison of Bubble Sort and Merge Sort.pdf document here](https://github.com/user-attachments/files/27290270/Performance.Comparison.of.Bubble.Sort.and.Merge.Sort.pdf)
+
+Keywords: algorithm efficiency, sorting algorithms, bubble sort, merge sort, python, computational analysis
+
