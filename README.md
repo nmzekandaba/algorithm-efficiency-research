@@ -1,6 +1,9 @@
-# Algorithm Efficiency Research (Bubble Sort vs Merge Sort)
+# Algorithm Efficiency Research: Bubble Sort vs Merge Sort (Python Analysis)
+# Algorithm Efficiency Research: Bubble Sort vs Merge Sort (Python Analysis)
 
-This independent undergraduate research project analyses the efficiency of sorting algorithms using Python. The study compares Bubble Sort and Merge Sort in terms of time complexity and execution performance.
+This independent undergraduate research project analyzes the efficiency of sorting algorithms using Python. It compares Bubble Sort and Merge Sort by measuring execution time and evaluating theoretical complexity using Big-O notation.
+
+The study provides practical and mathematical insights into algorithm performance, making it useful for computer science students and beginners learning algorithm analysis.
 
 ## Research Context
 This project is an independent undergraduate research study focusing on algorithm performance analysis and computational efficiency.
@@ -30,12 +33,21 @@ Bubble Sort showed significantly slower growth compared to Merge Sort, confirmin
 - Big-O Notation
 - Computational Performance
 
-# Author
-Ntokozo Mzekandaba  
-Independent Undergraduate Research Project (2026)
+## Full Research Paper
+[Download the paper](research-paper.pdf)
+
+## Source Code
+Located in the /code directory
+
+## Results
+See data and performance comparisons in /data
 
 # Algorithm Efficiency Research Project using Python
 📄 Full Research Paper: [Download Performance Comparison of Bubble Sort and Merge Sort.pdf document here](https://github.com/user-attachments/files/27290270/Performance.Comparison.of.Bubble.Sort.and.Merge.Sort.pdf)
 
-Keywords: algorithm efficiency, sorting algorithms, bubble sort, merge sort, python, computational analysis
+# Author
+Ntokozo Mzekandaba  
+Independent Undergraduate Research Project (2026)
 
+## Keywords
+algorithm efficiency, sorting algorithms, bubble sort vs merge sort, python algorithms, big-o notation, algorithm analysis, computer science research
